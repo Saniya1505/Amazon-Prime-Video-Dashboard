@@ -52,3 +52,6 @@ The dashboard provides meaningful insights into the platform’s content library
 - **Data Modeling** – Relationships & DAX measures  
 
 ---
+
+## 📷 Dashboard Preview
+<img width="1337" height="735" alt="Screenshot 2026-04-26 182453" src="https://github.com/user-attachments/assets/1f0e9d15-29a1-4715-8685-d56f97687cbd" />
