@@ -41,8 +41,8 @@ The dashboard provides meaningful insights into the platform’s content library
 ### 🔹 Trends Over Time
 - Significant growth in content after the **year 2000**.
 - Rapid increase in recent years reflects:
-  - Expansion of streaming services
-  - Increased content production
+  - Expansion of streaming services.
+  - Increased content production.
 
 ---
 
